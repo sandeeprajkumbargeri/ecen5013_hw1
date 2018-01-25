@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# File Name: info.sh
 # Author: Sandeep Raj Kumbargeri
 # Written for ECEN 5013 Advanced Practical Embedded Software Development course in Spring 2018
 # at the University of Colorado Boulder.
@@ -16,6 +17,9 @@
 #	* Kernel Build Time
 #	* System Architecture
 #	* Information on File Systems Memory
+#
+# Tools used: This is a bash script written using gedit text editor
+
 
 # Script begins here
 
